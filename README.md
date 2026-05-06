@@ -26,6 +26,10 @@
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"><br>
       C#
     </td>
+    <td align="center">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><br>
+      React
+    </td>
   </tr>
 </table>
 
