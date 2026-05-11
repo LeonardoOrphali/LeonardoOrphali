@@ -1,5 +1,3 @@
-## Olá 👋
-
 <table>
   <tr>
     <td align="center">
