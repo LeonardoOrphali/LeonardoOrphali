@@ -7,14 +7,17 @@
   Next.js e C#/.NET, buscando contribuir, aprender e evoluir.
 </p>
 
+<hr />
+
 <h3>Tecnologias</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,cs,dotnet" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, C# e .NET" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,react,nextjs,tailwind,dotnet,express,postgres,mongodb&perline=16" height="40" alt="JavaScript, TypeScript, C#, HTML, CSS, React, Next.js, Tailwind CSS, .NET, Express, PostgreSQL e MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=git,docker" height="40" alt="Git e Docker" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,vitest" alt="PostgreSQL, MongoDB, Git, Docker e Vitest" />
-</p>
+
+<hr />
 
 <h3>Contato</h3>
 
