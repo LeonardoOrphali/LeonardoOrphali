@@ -9,7 +9,7 @@
 
 <hr />
 
-<h3>Tecnologias</h3>
+<h3>Tecnologias & Ferramentas</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,react,nextjs,tailwind,dotnet,express,postgres,mongodb&perline=16" height="40" alt="JavaScript, TypeScript, C#, HTML, CSS, React, Next.js, Tailwind CSS, .NET, Express, PostgreSQL e MongoDB" />
