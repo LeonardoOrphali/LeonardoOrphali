@@ -3,8 +3,8 @@
 <p><strong>Desenvolvedor Fullstack · São Paulo, Brasil</strong></p>
 
 <p>
-  Graduando em Ciência da Computação. Desenvolvo aplicações com React,
-  Next.js e C#/.NET, buscando contribuir, aprender e evoluir.
+  Desenvolvedor de software com foco em React, Next.js, TS e C#/.NET. 
+  Graduando em Ciência da Computação e com formação técnica em Desenvolvimento de Sistemas, busco construir aplicações modernas, escaláveis e bem estruturadas.
 </p>
 
 <hr />
@@ -12,7 +12,7 @@
 <h3>Tecnologias & Ferramentas</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,react,nextjs,tailwind,dotnet,express,postgres,mongodb&perline=16" height="40" alt="JavaScript, TypeScript, C#, HTML, CSS, React, Next.js, Tailwind CSS, .NET, Express, PostgreSQL e MongoDB" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,dotnet,express,react,nextjs,tailwind,postgres,mongodb,html,css&perline=16" height="40" alt="JavaScript, TypeScript, C#, HTML, CSS, React, Next.js, Tailwind CSS, .NET, Express, PostgreSQL e MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40" alt="SQL Server" />
   <img src="https://skillicons.dev/icons?i=git,docker" height="40" alt="Git e Docker" />
 </p>
