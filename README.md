@@ -12,9 +12,10 @@
 <h3>Tecnologias & Ferramentas</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,dotnet,express,react,nextjs,tailwind,postgres,mongodb,html,css&perline=16" height="40" alt="JavaScript, TypeScript, C#, HTML, CSS, React, Next.js, Tailwind CSS, .NET, Express, PostgreSQL e MongoDB" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,dotnet,express,react,nextjs,tailwind,postgres,mongodb&perline=16" height="40" alt="JavaScript, TypeScript, C#, .NET, Express, React, Next.js, Tailwind CSS,, PostgreSQL e MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40" alt="SQL Server" />
   <img src="https://skillicons.dev/icons?i=git,docker" height="40" alt="Git e Docker" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="Html e Css" />
 </p>
 
 <hr />
